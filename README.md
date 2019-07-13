@@ -6,5 +6,5 @@ systematic way to feed the animals. Your plan is to first make paths to each ani
 then to construct canals to provide fresh water to all animal cages. Your task is to identify the most efficient
 routes for providing food and water to the animals.
 
-There is a minimum spanning tree portion of this problem that utilizes a constraint involvign a border around the bottom 
-left quadrant of this graph.
+For a detailed description of the program's rules, please go to 
+https://docs.google.com/document/d/1CuwYKdeJAzrZSNppVefIRA4JOsk5v8s2PFTsADCa_1U/edit
